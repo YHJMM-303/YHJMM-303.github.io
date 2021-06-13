@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YHJMM-303.github.io</id>
     <title>一名爱DIY的学生</title>
-    <updated>2021-06-05T04:41:49.043Z</updated>
+    <updated>2021-06-13T11:26:23.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://YHJMM-303.github.io"/>
     <link rel="self" href="https://YHJMM-303.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://YHJMM-303.github.io/images/avatar.png</logo>
     <icon>https://YHJMM-303.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一名爱DIY的学生</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我在毕业典礼上拍的照片...]]></title>
+        <id>https://YHJMM-303.github.io/post/guan-yu-wo-zai-bi-ye-dian-li-shang-pai-de-zhao-pian/</id>
+        <link href="https://YHJMM-303.github.io/post/guan-yu-wo-zai-bi-ye-dian-li-shang-pai-de-zhao-pian/">
+        </link>
+        <updated>2021-06-13T11:22:18.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://YHJMM-303.github.io/post-images/1623583453502.jpg" alt="" loading="lazy"><br>
+<img src="https://YHJMM-303.github.io/post-images/1623583459585.jpg" alt="" loading="lazy"><br>
+最后其他人都走了后拍的<br>
+<img src="https://YHJMM-303.github.io/post-images/1623583509027.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://YHJMM-303.github.io/post/hello-gridea/</id>
