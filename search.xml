@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>你好，世界</title>
+      <link href="/2022/05/23/hello-world/"/>
+      <url>/2022/05/23/hello-world/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到<a href="https://hexo.io/">Hexo</a>! 这是你的第一篇文章。 <a href="https://hexo.io/docs/">了解更多</a>。 如果你在使用Hexo时遇到问题, 你可以在<a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a>寻求帮助或者可以在<a href="https://github.com/hexojs/hexo/issues">GitHub</a>告诉我们。</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新文章"><a href="#创建一篇新文章" class="headerlink" title="创建一篇新文章"></a>创建一篇新文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>更多: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="运行"><a href="#运行" class="headerlink" title="运行"></a>运行</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>自评量表</title>
+      <link href="/2022/05/22/%E8%87%AA%E8%AF%84%E9%87%8F%E8%A1%A8/"/>
+      <url>/2022/05/22/%E8%87%AA%E8%AF%84%E9%87%8F%E8%A1%A8/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="个人推荐几个自评量表"><a href="#个人推荐几个自评量表" class="headerlink" title="个人推荐几个自评量表"></a>个人推荐几个自评量表</h3><ol><li>抑郁自评量表<br><a href="https://apesk.com/sds">SDS</a>  </li><li>艾森克人格问卷<br><a href="https://apesk.com/epq">EPQ</a> </li><li>SCL-90自评量表<br><a href="https://apesk.com/scl90">SCL-90</a> </li><li>明尼苏达人格测验<br><a href="https://apesk.com/mmpi">MMPI</a></li></ol><blockquote><p>MMPI量表题目较多。以上测试结果仅供参考</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 资源分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
