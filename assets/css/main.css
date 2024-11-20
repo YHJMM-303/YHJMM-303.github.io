@@ -21,7 +21,7 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%;
     background-color: #818181;
-    background-image: url('../img/background.png');
+    background-image: url('https://fastly.jsdelivr.net/gh/YHJMM-303/YHJMM-303.github.io@gh-pages/assets/img/background.png');
 }
 #rin-bg:after {
     top: 0;
